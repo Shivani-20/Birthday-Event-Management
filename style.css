@@ -1,0 +1,200 @@
+#ma
+{
+	width:500px;
+	float:left;
+	background:#f7f1e3;
+	padding:5px;
+	font-family:Algerian;
+	height:250px;
+	
+}
+
+
+#am
+{
+	width:500px;
+	float:right;
+	background:#f7f1e3;
+	padding:5px;
+	font-family:Algerian;
+	margin:0 auto;
+}
+
+#ss
+{
+	width:500px;
+	float:center;
+	background:#227093;
+	padding:5px;
+	font-family:Arial;
+	margin:0 auto;
+	height:300px;
+}
+
+.f3
+{
+	
+	width:450px;
+	margin:0 auto;
+}
+
+.f
+{
+	
+	width:450px;
+	margin:0 auto;
+}
+
+.iv
+{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+	
+	
+}
+
+.inputvalues
+{
+	width:430px;
+	margin:0 auto;
+	padding:5px;
+}
+
+
+
+#l
+{
+	background-color:#2c3e50;
+	padding:5px;
+	color:white;
+	margin:auto;
+	width:445px;
+	font-family:Algerian;
+	font-size:18px;
+}
+
+#r
+{
+	background-color:#2c3e50;
+	padding:5px;
+	color:white;
+	margin:auto;
+	width:445px;
+	font-family:Algerian;
+    font-size:18px;
+}
+.top-container {
+  background-color:#192a56;
+  padding: 20px;
+  text-align: center;
+  color:#e1b12c;
+}
+.b1{
+	position:absolute;
+	top:700px;
+	left:10px;
+    background-color: #f7f1e3; 
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    
+    text-decoration: none;
+	
+	}
+.b2{
+	position:absolute;
+	top:700px;
+	left:150px;
+    background-color: #f7f1e3; 
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+    cursor: pointer; 
+     
+    text-decoration: none;
+	
+}
+
+
+.b3{
+	position:absolute;
+	top:700px;
+	left:280px;
+    background-color: #f7f1e3; 
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+}
+
+.b4{
+	position:absolute;
+	top:700px;
+	left:400px;
+    background-color: #f7f1e3; 
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+}
+
+.bb1
+{
+	position:relative;
+	
+	left:640px;
+    background-color:#218c74; 
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+}
+.bb2
+{
+	position:relative;
+	
+	left:660px;
+    background-color:#218c74;
+    border: 1px solid green; 
+    color: black; 
+    padding: 10px 24px; 
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#40739e;
+	 border: 1px solid white;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	border:1px solid white;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#N
+{
+	
+background-color:#ff793f;
+	padding:5px;
+	color:black;
+	margin:auto;
+	width:445px;
+	font-family:Arial;
+	font-size:18px;
+	
+}
